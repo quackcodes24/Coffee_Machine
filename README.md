@@ -72,15 +72,6 @@ Here is your latte. Enjoy!
 
 ---
 
-## Future Improvements
-
-- Add refill option for resources  
-- Improve change calculation logic  
-- Handle insufficient resources more cleanly  
-- Create a GUI version  
-
----
-
 ## Requirements
 
 - Python 3.6 or later
